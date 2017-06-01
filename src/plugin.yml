@@ -1,0 +1,4 @@
+main: me.deceptions.groovyplugin.Main
+name: GroovyPlugin
+version: 1
+author: FXA
